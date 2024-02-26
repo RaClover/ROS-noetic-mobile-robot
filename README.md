@@ -47,13 +47,17 @@ To launch the simulation and start the robot, use the following commands:
 
 ### Robot in Gazebo
 
-![Robot in Gazebo](IMAGE_URL_FOR_GAZEBO)
+![Robot in Gazebo](images/gazebo1.png)
 
 This image shows the robot in the Gazebo simulation environment, where you can test the robot's physical properties and interactions with the world.
 
 ### Robot in RViz
 
-![Robot in RViz](IMAGE_URL_FOR_RVIZ)
+![Robot in RViz](images/rviz1.png)
+
+Additional RViz View:
+
+![Additional RViz View](images/rviz2.png)
 
 Here, the robot is visualized in RViz, allowing for detailed observation of sensor data, navigation paths, and the overall state of the robot in a simulated environment.
 
